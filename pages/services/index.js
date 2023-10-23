@@ -30,9 +30,7 @@ const Services = () => {
             >
               As a MERN Stack developer, I offer a range of comprehensive
               services to bring your digital ideas to life. With expertise in
-              the MongoDB, Express.js, React, and Node.js technologies, I
-              specialize in crafting custom web applications that seamlessly
-              integrate front-end and back-end functionalities.
+              the MongoDB, Express.js, React, and Node.js technologies, 
             </motion.p>
           </div>
           <motion.div

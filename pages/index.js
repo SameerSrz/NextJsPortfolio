@@ -42,9 +42,9 @@ const Home = () => {
               scalable web applications.
             </motion.p>
             {/* btn */}
-            <div className="flex justify-center xl:hidden relative">
+            {/* <div className="flex justify-center xl:hidden relative">
               <ProjectsBtn />
-            </div>
+            </div> */}
             <motion.div
               variants={fadeIn("down", 0.4)}
               initial="hidden"
