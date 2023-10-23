@@ -12,8 +12,8 @@ const workSlides = {
     {
       images: [
         {
-          title: 'title',
-          path: '/thumb1.jpg',
+          title: 'Multi Vendor E-Commerce Website',
+          path: '/multiVendor.png',
         },
         {
           title: 'title',
