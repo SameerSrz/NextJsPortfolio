@@ -141,12 +141,16 @@ const About = () => {
             animate="show"
             exit="hidden"
             className="hidden md:block md:max-w-[500px] md:max-auto md:xl:mx-0 md:mb-4 lg:mb-6 xl:mb-12 md:px-2 xl:px-0 md:text-sm lg:text-base"
-
           >
             I am a skilled MERN-Stack developer with one year of experience in
             designing, developing, and deploying software applications. My
             expertise lies in front-end development , Back-end development and
-            game development. I am committed to delivering value to my clients
+            game development.In addition to my technical skills, I am also a
+            great communicator and collaborator, and have experience working in
+            cross-functional teams. I am able to work under pressure and have
+            excellent problem-solving skills. I am committed to delivering value
+            to my clients and users, and am dedicated to providing exceptional
+            customer service. I am committed to delivering value to my clients
             and users. If you are looking for a skilled developer who can
             deliver high-quality software solutions, please feel free to reach
             out to me.
@@ -172,7 +176,7 @@ const About = () => {
               {/* Clients */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={250} duration={5} /> +
+                  <CountUp start={0} end={7} duration={5} /> +
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Satisfied Clients
@@ -181,7 +185,7 @@ const About = () => {
               {/* Projects */}
               <div className="relative flex-1 after:w-[1px] after:h-full after:bg-white/10 after:absolute after:top-0 after:right-0">
                 <div className="text-2xl xl:text-4xl font-extrabold text-accent mb-2">
-                  <CountUp start={0} end={650} duration={5} /> +
+                  <CountUp start={0} end={10} duration={5} /> +
                 </div>
                 <div className="text-xs uppercase tracking-[1px] leading-[1.4] max-w-[100px]">
                   Finished Projects
